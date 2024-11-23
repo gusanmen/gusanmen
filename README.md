@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gusanmen
+-### 👋 Hi, I’m @gusanmen
 - 👀 I’m interested in Python, BBDD, Sql
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
